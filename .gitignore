@@ -1,0 +1,12 @@
+node_modules/
+dist/
+build/
+.DS_Store
+*.log
+*.xlsx
+*.zip
+*.mp4
+*.mov
+*.psd
+*.dwg
+.env*
